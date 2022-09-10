@@ -4,7 +4,8 @@
 4. 📫 How to reach me: 
 - 📨 E-mail: tmlatteru@gmail.com
 - 🎮 Discord: litecave#4412
-- 🕹 Minecraft / Microsoft / Xbox: [thelatteRU](https://account.xbox.com/ru-ru/Profile?xr=mebarnav&rtc=1)
+- 🕹 Microsoft / Xbox: [thelatteRU](https://account.xbox.com/ru-ru/Profile?xr=mebarnav&rtc=1)
+- 🕹 Minecraft: latteru
 
 
 <!---
