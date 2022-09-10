@@ -13,7 +13,10 @@ Raspberry Pi 3B.
 ## Мобильная Электроника.
 Xiaomi Redmi Note 8 Pro, 
 iPad 8th Gen, 
-Playstation Portable (кншн консоль, но фул портативка)*.
+Playstation Portable (кншн консоль, но фул портативка)\*.
+## Механические клавиатуры.
+Skyloong GK61 (Hotswap, 60%, Gatheron Black),
+Defender Striker GM-380L (Soldered, 60%, OUTEMU+BLUE).
 
 
 (...портативка)* - Nintendo Switch был отнесён в Консоли из-за того что он ГИБРИД, то есть и домашняя консоль, и портативная, а PSP - ТОЛЬКО портативная консоль, поэтому и была отнесена в Мобильную Электронику.
