@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ezlatteru" target="blank"><img src="https://img.shields.io/twitter/follow/ezlatteru?logo=twitter&style=for-the-badge" alt="ezlatteru" /></a> </p>
 
-- 🔭 I’m currently working on [ezdl](https://github.com/ibeticanhandlethis/ezdl)
+- 🔭 I’m currently working on [ezdl](https://github.com/ibeticanhandlethis/ezdl) (private rn)
 
 - 🌱 I want to learn **VRChat World Development, Swift and ML**
 
